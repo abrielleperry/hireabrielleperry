@@ -1584,7 +1584,7 @@ hr.fancy::before {
   font-family: var(--font-1);
   font-weight: 300;
   font-size: var(--text-sm);
-  line-height: var(--vspace-1_25);
+  line-height: var(--vspace-1);
   color: var(--color-text-dark);
 }
 
@@ -3428,7 +3428,7 @@ img.u-pull-left {
 
 .about-info__text {
   padding: var(--vspace-3_5) 10vw var(--vspace-2) 0;
-  margin-left: -4rem;
+  margin-left: 3rem;
 }
 
 .about-info__text .text-pretitle {
@@ -3847,7 +3847,7 @@ img.u-pull-left {
   color: white;
   padding: 0 1.2rem;
   position: absolute;
-  bottom: var(--vspace-1);
+  bottom: var(--vspace-0_5);
   right: var(--vspace-1);
 }
 
